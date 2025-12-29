@@ -106,7 +106,7 @@ Profit margins fluctuate due to operating expenses
 
 📷 Dashboard Preview
 
-(Screenshot attached in repository)
+[(Screenshot attached in repository)](https://raw.githubusercontent.com/Abhay-datascience/Financial-Analysis-of-a-Business/refs/heads/main/Screenshot%202025-12-29%20221454.png)
 
 🚀 How to Use
 
